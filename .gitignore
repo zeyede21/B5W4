@@ -1,0 +1,49 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Data files
+data/
+datasets/
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# Model checkpoints
+*.pt
+*.bin
+*.ckpt
+checkpoints/
+models/
+
+# Hugging Face cache
+.cache/
+.huggingface/
+
+# Logs
+logs/
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VSCode and IDE settings
+.vscode/
+.idea/
