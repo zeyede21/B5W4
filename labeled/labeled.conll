@@ -1,4 +1,3 @@
-#1
 Adidas	B-Product
 bad	O
 bunny	O
@@ -24,7 +23,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#2
 Waerta	B-Product
 loafer	O
 leather	O
@@ -50,7 +48,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-
 Air	O
 Jordan	B-Product
 Stay	O
@@ -76,7 +73,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#3
 Skechers	B-Product
 Flex	O
 Groove	O
@@ -100,7 +96,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#4
 Colombia	B-Product
 Hiking	O
 ,	O
@@ -124,7 +119,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#4
 Nike	B-Product
 Air	O
 Force	O
@@ -151,7 +145,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#5
 NB	B-Product
 04	O
 leather	O
@@ -177,7 +170,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#6
 Air	O
 Jordan	B-Product
 9	O
@@ -202,7 +194,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#7
 Alta	B-Product
 buckle	O
 leather	O
@@ -228,7 +219,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#8
 Skechers	B-Product
 Delux	O
 Walker	O
@@ -252,8 +242,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-
-#9
 Adidas	B-Product
 bad	O
 bunny	O
@@ -279,7 +267,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#10
 Waerta	B-Product
 loafer	O
 leather	O
@@ -305,7 +292,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#11
 Air	O
 Jordan	B-Product
 Stay	O
@@ -331,7 +317,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#12
 Skechers	B-Product
 Flex	O
 Groove	O
@@ -355,7 +340,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#13
 Colombia	B-Product
 Hiking	O
 ,	O
@@ -379,7 +363,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#14
 Nike	B-Product
 Air	O
 Force	O
@@ -406,7 +389,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#15
 NB	B-Product
 04	O
 leather	O
@@ -432,7 +414,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#16
 Air	O
 Jordan	B-Product
 9	O
@@ -457,7 +438,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#17
 Alta	B-Product
 buckle	O
 leather	O
@@ -483,7 +463,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#18
 Skechers	B-Product
 Delux	O
 Walker	O
@@ -507,7 +486,6 @@ birr	B-PRICE
 101	O
 የቢሮ	O
 ቁጥር	B-LOC
-#19
 Magic         B-Product
 Silicone      I-Product
 Dish          I-Product
@@ -524,7 +502,6 @@ Gloves        I-Product
 ፎቅ           I-Location
 ቁጥር         I-Location
 329           I-Location
-#20
 Sealed        B-Product
 Grain         I-Product
 and           I-Product
@@ -542,7 +519,6 @@ Box           I-Product
 ግራውንድ       I-Location
 ለይ           I-Location
 G07           I-Location
-@21
 Derma         B-Product
 Roller        I-Product
 System        I-Product
@@ -555,7 +531,6 @@ System        I-Product
 3             I-Location
 ተኛ           I-Location
 ፎቅ           I-Location
-#22
 KEMEi         B-Product
 Hair          I-Product
 Straightener  I-Product
@@ -595,7 +570,6 @@ Cup           I-Product
 3ኛ           I-Location
 ፎቅ           I-Location
 376           I-Location
-#25
 Waist         B-Product
 Training      I-Product
 Corset        I-Product
@@ -608,7 +582,6 @@ Corset        I-Product
 3ኛ           I-Location
 ፎቅ           I-Location
 376           I-Location
-@27
 Multifunctional B-Product
 professional   I-Product
 Grater         I-Product
